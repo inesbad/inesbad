@@ -32,7 +32,7 @@ Je construis des applications web complètes, du **front React/Next.js** au **ba
 - Méthodes Agile
 
 ## Projets (sélection)
-- **Task Manager** — Application full stack (API REST + PostgreSQL) : CRUD, échanges JSON, gestion d’erreurs
+- **Work-Dashboard** — Application full stack (API REST + PostgreSQL) : CRUD, échanges JSON, gestion d’erreurs
 - **Ada_Pâtisserie** — Projet full stack : base de données + routes backend + interface JS/CSS
 - **Quiz JavaScript** — DOM, timing, score, intégration médias
 
